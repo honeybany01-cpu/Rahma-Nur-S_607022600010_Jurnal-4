@@ -3,7 +3,7 @@ using namespace std;
 int main () {
 
 int suhu = 80; 
-bool air_coolant = true;
+bool air_coolant = false;
 
 if(suhu > 70){
     if(air_coolant == true){
